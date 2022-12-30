@@ -8,7 +8,7 @@
 * [Lifecycle][3]: A Composition is a tree-structure of the composables that describe your UI.
 * [Navigation][4]: You can navigate between composables.
 * [Jetpack-Compose][7]: Jetpack Compose is a modern toolkit for building native Android UI.
-* [Jetpack-Compose][8]: The kotlin-parcelize plugin provides a Parcelable implementation generator.
+* [Kotlin-Parcelize][8]: The kotlin-parcelize plugin provides a Parcelable implementation generator.
 
 
 App Video
